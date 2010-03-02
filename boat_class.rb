@@ -1,14 +1,24 @@
 # class example in Ruby
 # details for subclass of sail boat
-# added virtual attribute for sail boat subclass
+# added reader/writer accessor value
+# adding class values
 
 class Boat
+  @@boats = 0;
   attr_accessor :name, :length, :colour
 
   def initialize(name,length,colour)
     @name = name
     @length = length
     @colour = colour
+    @boats = 0
+    boat_count
+  end
+  
+  def boat_count
+   @@boats +=1
+   puts "There are now #@@boats boats in play"
+   puts "I\'m " + self.to_s
   end
   
   # override the to_s method with our own version
@@ -20,9 +30,11 @@ end
 class SailBoat < Boat
   attr_accessor :sails
     
-  def initialize(name,length, colour,sails)
+  def initialize(name,length, colour, sails)
     super(name,length,colour)
     @sails = sails
+    @boats = 0
+    
   end
   
   def sail_class
@@ -44,6 +56,7 @@ end
 
 boat = Boat.new("Sunrise",20, "blue")
 sail = SailBoat.new("Puffin",20,"blue/white",2)
+#boat.boat_count
 puts boat.inspect.to_s
 puts sail.sail_class
 sail.sail_class = 23

@@ -1,5 +1,6 @@
 # class example in Ruby
 # details for subclass of sail boat
+# added attribute reader values
 
 class Boat
   attr_reader :name, :length, :colour

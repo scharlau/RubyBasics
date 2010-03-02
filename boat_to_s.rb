@@ -1,4 +1,5 @@
 # class example in Ruby
+# overriding to_s method
 
 class Boat
   def initialize(name,length,colour)
