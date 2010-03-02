@@ -33,8 +33,6 @@ class SailBoat < Boat
   def initialize(name,length, colour, sails)
     super(name,length,colour)
     @sails = sails
-    @boats = 0
-    
   end
   
   def sail_class
