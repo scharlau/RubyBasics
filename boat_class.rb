@@ -7,7 +7,7 @@ class Boat
   @@boats = 0;
   attr_accessor :name, :length, :colour
 
-  def initialize(name,length,colour)
+  def initialize(name="Sunrise",length=20,colour="blue")
     @name = name
     @length = length
     @colour = colour
