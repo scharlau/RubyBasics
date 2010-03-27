@@ -1,2 +1,4 @@
 ========================== README RUBYBASICS ====================================
-This is a collection of simple ruby scripts used for teaching programming to students who are learning to program. I tend to walk through them and discuss the points of interest and then run them as demos in class to show what happens with variations of the program
+This is a collection of simple ruby scripts used for teaching programming to students who are learning to program. I tend to walk through them and discuss the points of interest and then run them as demos in class to show what happens with variations of the program.
+
+This is used for the course at http://www.abdn.ac.uk/~csc280/teaching/CS1514/ where I teach the ruby lectures and a colleague does the rails ones. The practicals used are available here, http://www.abdn.ac.uk/~csc228/teaching/CS5550/practicals/ Do note the lectures are restricted, and I'll move their material to a non-restricted site shortly.
