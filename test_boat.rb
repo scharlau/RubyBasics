@@ -4,6 +4,9 @@ require 'test/unit'
 require 'boat_class'
 
 class TestBoat < Test::Unit::TestCase
+  def setup
+    # put any preperation work here
+  end
   
   def test_boat
      boat = Boat.new
@@ -16,5 +19,9 @@ class TestBoat < Test::Unit::TestCase
     assert_equal("cruiser", sail.sail_class.to_s)
     sail.name="jewel"
     assert_equal("jewel", sail.name.to_s)
+  end
+  
+  def teardown
+    # put any clean up work here
   end
 end
