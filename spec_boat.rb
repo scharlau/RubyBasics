@@ -1,6 +1,9 @@
 # a simple test rspec example of the boat class
 # use require to tell program to use other classes
 
+#find more details about rspec at
+# http://rspec.info/ and follow link for RSpec for api, etc
+
 require 'boat_class'
 
 describe Boat do

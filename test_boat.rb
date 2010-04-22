@@ -1,5 +1,9 @@
 # a simple test unit example of the boat class
 # use require to tell program to use other classes
+
+# find more details about tests in standard api at
+# http://ruby-doc.org/stdlib/ under test/unit at left
+
 require 'test/unit'
 require 'boat_class'
 
