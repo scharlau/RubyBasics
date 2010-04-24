@@ -1,11 +1,17 @@
 # boat movement module in Ruby
 
-module Movement
+module Boat_Movement
   def left
-    puts "coming about left"
+    return "coming about left"
   end
   
-  def right
-    puts "coming about right"
+  def right()
+    return "coming about right"
   end
+  
+  #def zig_zag (param)
+  #  puts param.call
+  #  puts param.to_s
+  #end
+  
 end

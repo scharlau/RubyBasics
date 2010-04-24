@@ -2,8 +2,10 @@
 # details for subclass of sail boat
 # added reader/writer accessor value
 # adding class values
+require 'boat_movement'
 
 class Boat
+  include Boat_Movement
   @@boats = 0;
   attr_accessor :name, :length, :colour
 
@@ -13,6 +15,7 @@ class Boat
     @colour = colour
     @boats = 0
     boat_count
+    
   end
   
   def boat_count
@@ -50,6 +53,4 @@ class SailBoat < Boat
   end
 end
 
-boat = Boat.new("Sunrise",20, "blue")
-sail = SailBoat.new("Puffin",20,"blue/white",2)
 
