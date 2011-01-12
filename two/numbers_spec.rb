@@ -1,7 +1,7 @@
 # spec file for ruby tests
 # write your code in the section noted
 
-describe "ruby numbers" do
+describe "some ruby numbers" do
   
   before(:all) do
     # put your own code here
@@ -25,14 +25,15 @@ describe "ruby numbers" do
   end
   
   # extra exercise to work out
-  #it "should tell me how many second old I am" do
-  #  @seconds_old.should == age_in_seconds
-  # end
+  it "should tell me how many seconds old I am" do
+     # @seconds_old.should == @age_in_seconds
+   end
   
   after(:all) do
-    puts @myNum
-    puts @hours_in_year
-    puts @minutes_in_decade
+    puts # just a blank line to separate output
+    puts "myNum is " + @myNum.to_s
+    puts "There are #{@hours_in_year} hours in a year"
+    puts "There are #{@minutes_in_decade} minutes in a decade"
   end
   
   
