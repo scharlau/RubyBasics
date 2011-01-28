@@ -19,7 +19,14 @@ Lesson 8: classes
 Lesson 9: files and tests
 Lesson 10: modules, blocks and procs
 
+Each folder will have a few 'run as they are' files, plus one <name>_spec.rb file which will need to have a similar <name>.rb file
+created to make the spec file pass all of its tests. This will be the 'larger' program that is needed to be written to see how the
+ideas fit into practice.
+
 As I run this again in the comming 2011 session, then I will bring in tests sooner through use of test-first approach promoted by
-http://testfirst.org as a way to know that the program is running correctly. I will do a few without tests to show how you get output to the screen and all, but then move quickly to a learn with tests approach. This will not be test driven development, but rather use tests to know that the program works as expected. It will set them up fine therefore to move to test driven development later in the following term.
+http://testfirst.org as a way to know that the program is running correctly. I will do a few without tests to show how you get output
+to the screen and all, but then move quickly to a learn with tests approach. This will not be test driven development, but rather use
+tests to know that the program works as expected. It will set them up fine therefore to move to test driven development later in the
+following term.
 
 Feel free to use these materials, just please let me know how you get on with them and we can all move forward with this.
