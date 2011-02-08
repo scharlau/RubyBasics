@@ -5,23 +5,23 @@ require 'hello'
 
 describe "some ruby string methods" do
 it "should greet me" do
-    Hello.new.greeting == "hello there"
+    Hello.new.greeting.should == "hello there"
   end
     
   it "should tell me how many characters there are" do
-    Hello.new.number("hello world") == 11
+    Hello.new.number("hello world").should == 11
   end
   
   it "should reverse the order of the characters" do
-     Hello.new.reverse("hello world") == "dlrow olleh"
+     Hello.new.reverse("hello world").should == "dlrow olleh"
   end
   
   it "should capitalise everything" do
-     Hello.new.caps("hello world") == "HELLO WORLD"
+     Hello.new.caps("hello world").should == "HELLO WORLD"
   end
   
   it "should repeat the word" do
-     Hello.new.repeat("hello world") == "hello worldhello world"
+     Hello.new.repeat("hello world").should == "hello world hello world"
   end
   
 end
