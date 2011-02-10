@@ -11,9 +11,9 @@ while (guess !=theNumber && tries < 3) do
 	tries = tries+1
 	# run series of tests against guess
 	case
-	when guess == theNumber: puts 'good work! you guessed my number'
-	when guess < theNumber: puts 'you guessed too low'
-	when guess > theNumber: puts 'you guessed too high'
+	when guess == theNumber then puts 'good work! you guessed my number'
+	when guess < theNumber then puts 'you guessed too low'
+	when guess > theNumber then puts 'you guessed too high'
 	else
 		puts 'you should guess again'
 	end
