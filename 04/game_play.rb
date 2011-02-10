@@ -1,8 +1,7 @@
-# test for ruby app using modules
+# run code for ruby app using modules
 
 require 'game'
 module Game
-
 
 guess = Game::Guess.new(STDOUT)
 guess.start
