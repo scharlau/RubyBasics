@@ -42,7 +42,7 @@ describe "the leap years in a range of dates" do
     @leap = Leap.new
     @leap.first = 2000
     @leap.second = 2020
-    @leap.calculate.should == [2004, 2008, 2012, 2016,2020]
+    @leap.calculate.should == [2000, 2004, 2008, 2012, 2016,2020]
   end
   
 end
