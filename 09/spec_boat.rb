@@ -4,7 +4,7 @@
 #find more details about rspec at
 # http://rspec.info/ and follow link for RSpec for api, etc
 
-require 'boat_class'
+require './boat_class'
 
 describe Boat do
   it "should give the boat a name" do

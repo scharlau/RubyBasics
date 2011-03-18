@@ -5,7 +5,7 @@
 # http://ruby-doc.org/stdlib/ under test/unit at left
 
 require 'test/unit'
-require 'boat_class'
+require './boat_class'
 
 class TestBoat < Test::Unit::TestCase
   def setup

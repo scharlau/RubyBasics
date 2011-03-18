@@ -13,13 +13,13 @@ Presidency[n 1]	President	Took office	Left office	Party	Vice President	Term
 George Clinton	5
 4		James Madison
 [14][15][16][17]	March 4, 1809	March 4, 1817	Democratic-Republican	George Clinton[n 2]
-March 4, 1809 – April 20, 1812	6
+March 4, 1809 √ê April 20, 1812	6
 vacant[n 3]
-April 20, 1812 – March 4, 1813
+April 20, 1812 √ê March 4, 1813
 Elbridge Gerry[n 2]
-March 4, 1813 – November 23, 1814	7
+March 4, 1813 √ê November 23, 1814	7
 vacant [n 3]
-November 23, 1814 – March 4, 1817
+November 23, 1814 √ê March 4, 1817
 5		James Monroe
 [18][19][20][21]	March 4, 1817	March 4, 1825	Democratic-Republican	Daniel D. Tompkins	8
 9
@@ -28,9 +28,9 @@ November 23, 1814 – March 4, 1817
 National Republican	John C. Calhoun	10
 7		Andrew Jackson
 [26][27][28][29]	March 4, 1829	March 4, 1837	Democratic	John C. Calhoun [n 4]
-March 4, 1829 – December 28, 1832	11
+March 4, 1829 √ê December 28, 1832	11
 vacant[n 3]
-December 28, 1832 – March 4, 1833
+December 28, 1832 √ê March 4, 1833
 Martin Van Buren	12
 8		Martin Van Buren
 [30][31][32][33]	March 4, 1837	March 4, 1841	Democratic	Richard Mentor Johnson	13
@@ -38,9 +38,9 @@ Martin Van Buren	12
 [34][35][36][37]	March 4, 1841	April 4, 1841[n 2]	Whig	John Tyler	14
 10[n 5]		John Tyler
 [38][39][40][41]	April 4, 1841	March 4, 1845	Whig
-April 4, 1841 – September 13, 1841	vacant [n 3]
+April 4, 1841 √ê September 13, 1841	vacant [n 3]
 Independent[n 6]
-September 13, 1841 – March 4, 1845
+September 13, 1841 √ê March 4, 1845
 11		James K. Polk
 [42][43][44][45]	March 4, 1845	March 4, 1849	Democratic	George M. Dallas	15
 12		Zachary Taylor
@@ -49,9 +49,9 @@ September 13, 1841 – March 4, 1845
 [50][51][52][53]	July 9, 1850	March 4, 1853	Whig	vacant [n 3]
 14		Franklin Pierce
 [54][55][56][57]	March 4, 1853	March 4, 1857	Democratic	William R. King[n 2]
-March 4, 1853 – April 18, 1853	17
+March 4, 1853 √ê April 18, 1853	17
 vacant [n 3]
-April 18, 1853 – March 4, 1857
+April 18, 1853 √ê March 4, 1857
 15		James Buchanan
 [58][59][60][61]	March 4, 1857	March 4, 1861	Democratic	John C. Breckinridge	18
 16		Abraham Lincoln
@@ -66,9 +66,9 @@ Independent[n 9]
 18		Ulysses S. Grant
 [70][71][72][73]	March 4, 1869	March 4, 1877	Republican	Schuyler Colfax	21
 Henry Wilson[n 2]
-March 4, 1873 – November 22, 1875	22
+March 4, 1873 √ê November 22, 1875	22
 vacant [n 3]
-November 22, 1875 – March 4, 1877
+November 22, 1875 √ê March 4, 1877
 19		Rutherford B. Hayes
 [74][75][76][77]	March 4, 1877	March 4, 1881	Republican	William A. Wheeler	23
 20		James A. Garfield
@@ -77,9 +77,9 @@ November 22, 1875 – March 4, 1877
 [82][83][84][85]	September 19, 1881	March 4, 1885	Republican	vacant [n 3]
 22		Grover Cleveland
 [86][87][88][89]	March 4, 1885	March 4, 1889	Democratic	Thomas A. Hendricks[n 2]
-March 4, 1885 – November 25, 1885	25
+March 4, 1885 √ê November 25, 1885	25
 vacant [n 3]
-November 25, 1885 – March 4, 1889
+November 25, 1885 √ê March 4, 1889
 23		Benjamin Harrison
 [90][91][92][93]	March 4, 1889	March 4, 1893	Republican	Levi P. Morton	26
 24		Grover Cleveland
@@ -87,18 +87,18 @@ November 25, 1885 – March 4, 1889
 [86][87][88][89]	March 4, 1893	March 4, 1897	Democratic	Adlai E. Stevenson I	27
 25		William McKinley
 [94][95][96][97]	March 4, 1897	September 14, 1901[n 7]	Republican	Garret Hobart[n 2]
-March 4, 1897 – November 21, 1899	28
+March 4, 1897 √ê November 21, 1899	28
 vacant [n 3]
-November 21, 1899 – March 4, 1901
+November 21, 1899 √ê March 4, 1901
 Theodore Roosevelt	29
 26		Theodore Roosevelt
 [98][99][100][101]	September 14, 1901	March 4, 1909	Republican	vacant [n 3]
 Charles W. Fairbanks	30
 27		William Howard Taft
 [102][103][104][105]	March 4, 1909	March 4, 1913	Republican	James S. Sherman[n 2]
-March 4, 1909 – October 30, 1912	31
+March 4, 1909 √ê October 30, 1912	31
 vacant [n 3]
-October 30, 1912 – March 4, 1913
+October 30, 1912 √ê March 4, 1913
 28		Woodrow Wilson
 [106][107][108][109]	March 4, 1913	March 4, 1921	Democratic	Thomas R. Marshall	32
 33
@@ -127,17 +127,17 @@ Alben W. Barkley	41
 Hubert Humphrey	45
 37		Richard Nixon
 [142][143][144][145]	January 20, 1969	August 9, 1974[n 4]	Republican	Spiro Agnew[n 4]
-January 20, 1969 – October 10, 1973	46
+January 20, 1969 √ê October 10, 1973	46
 47
 vacant [n 3]
-October 10, 1973 – December 6, 1973
+October 10, 1973 √ê December 6, 1973
 Gerald Ford
-December 6, 1973 – August 9, 1974
+December 6, 1973 √ê August 9, 1974
 38		Gerald Ford
 [146][147][148][149]	August 9, 1974	January 20, 1977	Republican	vacant [n 3]
-August 9, 1974 – December 19, 1974
+August 9, 1974 √ê December 19, 1974
 Nelson Rockefeller
-December 19, 1974 – January 20, 1977
+December 19, 1974 √ê January 20, 1977
 39		Jimmy Carter
 [150][151][152][153]	January 20, 1977	January 20, 1981	Democratic	Walter Mondale	48
 40		Ronald Reagan
@@ -149,7 +149,8 @@ December 19, 1974 – January 20, 1977
 [162][163][164][165]	January 20, 1993	January 20, 2001	Democratic	Al Gore	52
 53
 43		George W. Bush
-[166][167][168][169]	January 20, 2001	January 20, 2009	Republican	Dick Cheney	54
+[166][167][168][169]	January 20, 2001	January 20, 2009
+Republican	Dick Cheney	54
 55
 44		Barack Obama
 [170][171][172][173]	January 20, 2009	Incumbent	  Democratic  	Joe Biden
