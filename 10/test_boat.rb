@@ -4,10 +4,10 @@
 # find more details about tests in standard api at
 # http://ruby-doc.org/stdlib/ under test/unit at left
 
-require 'test/unit'
-require 'boat_class'
+require 'minitest/autorun'
+require './boat_class'
 
-class TestBoat < Test::Unit::TestCase
+class TestBoat < Minitest::Test
   def setup
     # put any preperation work here
     @boat = Boat.new

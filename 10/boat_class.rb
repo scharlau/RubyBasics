@@ -2,7 +2,7 @@
 # details for subclass of sail boat
 # added reader/writer accessor value
 # adding class values
-require 'boat_movement'
+require './boat_movement'
 
 class Boat
   include Boat_Movement

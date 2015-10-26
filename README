@@ -2,11 +2,11 @@
 This is a collection of simple ruby scripts used for teaching programming to students who are learning to program.
 I tend to walk through them and discuss the points of interest and then run them as demos in class to show what happens with variations of the program.
 
-This is used for the course at http://www.abdn.ac.uk/~csc280/teaching/CS1516/
-where I teach the ruby lectures and a colleague does the rails ones.
-The practicals used are available here, http://www.abdn.ac.uk/~csc228/teaching/CS5550/practicals/
+This is used with parts of the Ruby and Rails classes, which a colleague and I teach.
+The practicals used are available here, http://homepages.abdn.ac.uk/b.scharlau/pages/teaching/CS5550/practicals/practicals/
 
-The lesson plan that I used this last session (2010) was this:
+The lesson plan that we used to use was this, although we now have now reduced this in 
+favour of using Sinatra sooner in the lessons:
 
 Lesson 1: introduction to course - no code samples - so no 01 folder
 Lesson 2: ruby 1 
@@ -23,7 +23,7 @@ Each folder will have a few 'run as they are' files, plus one <name>_spec.rb fil
 created to make the spec file pass all of its tests. This will be the 'larger' program that is needed to be written to see how the
 ideas fit into practice.
 
-As I run this again in the comming 2011 session, then I will bring in tests sooner through use of test-first approach promoted by
+Our goal was to always bring in tests sooner through use of test-first approach promoted by
 http://testfirst.org as a way to know that the program is running correctly. I will do a few without tests to show how you get output
 to the screen and all, but then move quickly to a learn with tests approach. This will not be test driven development, but rather use
 tests to know that the program works as expected. It will set them up fine therefore to move to test driven development later in the
